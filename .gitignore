@@ -1,0 +1,6 @@
+[gui]
+encoding = ansi
+
+[i18n]
+commitencoding = ansi
+logoutputencoding = ansi
