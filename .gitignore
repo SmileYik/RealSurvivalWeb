@@ -1,6 +1,6 @@
 [gui]
-encoding = ansi
+encoding = utf-8
 
 [i18n]
-commitencoding = ansi
-logoutputencoding = ansi
+commitencoding = utf-8
+logoutputencoding = utf-8
